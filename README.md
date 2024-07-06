@@ -7,8 +7,6 @@ This repository demonstrates how to use BERT (Bidirectional Encoder Representati
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
 3. [Data Preprocessing](#data-preprocessing)
-4. [Conclusion](#conclusion)
-5. [References](#references)
 
 ## Introduction
 
